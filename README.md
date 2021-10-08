@@ -10,7 +10,7 @@
 👯 I'm looking to collaborate on ...freelanced software engineering projects remotely.<br>
 😄 Pronouns: He/Him <br>
 ⚡ Fun facts:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  I am a self-taught linguist, can speak, read and write Hindi, English, Japanese as a native.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  I am a self-taught linguist, can speak, read and write English, Japanese as a native, and Mandarin as a beginner.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br>
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](email@email.com)

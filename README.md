@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Sam. I'm a web developer. br>
  
 🌱 *Currently Learning*: Full Stack Web Development<br>
-🤔 *Looking for help*: I'm looking for help with trying to find a software engineering job in this current job climate.<br>
+🤔 *Looking for help*: I'm looking for software engineering work or projects to keep me busy, lol.<br>
 💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br>
 🔭 I'm currently working on ...Coding new web-based applications on ReactJS and Cloud DB as backend.<br>
 🌱 I'm currently learning ...Laravel framework.<br>

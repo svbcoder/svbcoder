@@ -1,12 +1,11 @@
 <img src="https://images.unsplash.com/photo-1610208645766-b39debd72c9e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=975&h=300&q=80"/>
  
-### Hi there 👋, I'm Sam. I'm a web developer. br>
+### Hi there 👋, I'm Sam. I'm a Full Stack web developer. br>
  
-🌱 *Currently Learning*: Full Stack Web Development<br>
-🤔 *Looking for help*: I'm looking for software engineering work or projects to keep me busy, lol.<br>
-💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br>
-🔭 I'm currently working on ...Coding new web-based applications on ReactJS and Cloud DB as backend.<br>
-🌱 I'm currently learning ...Laravel framework.<br>
+🤔 *Looking for*: I'm looking for software engineering work or projects to keep me busy.<br>
+💬 Ask me about: how to mentor students, or assistance with an application you are working on. <br>
+🔭 I'm currently working on ...Coding for IRL Solana Grizzlython, building an AI based NFT application with my team.<br>
+🌱 I'm currently learning ...GPT-3<br>
 👯 I'm looking to collaborate on ...freelanced software engineering projects remotely.<br>
 😄 Pronouns: He/Him <br>
 ⚡ Fun facts:<br>

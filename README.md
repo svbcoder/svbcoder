@@ -2,7 +2,6 @@
  
 ### Hi there 👋, I'm Sam. I'm a Full Stack web developer. br>
  
-🤔 *Looking for*: I'm looking for software engineering work or projects to keep me busy.<br>
 💬 Ask me about: how to mentor students, or assistance with an application you are working on. <br>
 🔭 I'm currently working on ...Coding for IRL Solana Grizzlython, building an AI based NFT application with my team.<br>
 🌱 I'm currently learning ...GPT-3<br>

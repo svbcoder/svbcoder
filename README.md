@@ -1,6 +1,6 @@
 <img src="https://images.unsplash.com/photo-1610208645766-b39debd72c9e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=975&h=300&q=80"/>
  
-### Hi there 👋, I'm Sam. I'm a Full Stack web developer. br>
+Hi there 👋, I'm Sam. I'm a Full Stack web developer.
  
 💬 Ask me about: how to mentor students, or assistance with an application you are working on. <br>
 🔭 I'm currently working on ...Coding for IRL Solana Grizzlython, building an AI based NFT application with my team.<br>

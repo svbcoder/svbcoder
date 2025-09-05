@@ -8,7 +8,7 @@ Hi there 👋, I'm a Full Stack web developer and certified Microsoft AI Enginee
 📜 My journey: 
 - I’m a self-taught developer, shaped by more than five years of relentless coding as a self-sponsored side hustle.
 - Alongside that, I bring 24 years of full-time corporate experience as a Project Manager and PMO in technology and business, especially in the financial services domain.
-- Separately, I also founded and ran an IT consulting business in Japan (boot-strapped), building it from the ground up with family and friends. I handled everything from operations to client engagement, sales, reaching breakeven, and eventually closing the business on my own terms after 3 years of successful operation.
+- Separately, I also founded and ran an IT consulting business in Japan (boot-strapped), building it from the ground up with family and friends. I handled everything from launch, sales, marketing, business operations, client engagement, reaching breakeven, and eventually closing the business on my own terms after 3 years of successful run. 
   
 😄 Pronouns: He/Him <br>
 

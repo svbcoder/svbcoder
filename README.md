@@ -2,7 +2,7 @@ Hi there 👋, I'm a Full Stack web developer and certified Microsoft AI Enginee
  
 💬 I enjoy mentoring students and supporting others with their projects or applications. <br>
 🔭 I have participated in Solana Grizzlython Online Hackathon in 2023. Built an AI NFT Minting application with team. https://solana.com/news/solana-grizzlython-winners.<br>
-🌱 Always learning — right now, I’m exploring GPT-5 and its broader applications and dabbling in ML, Robotics use cases in real-life.<br>
+🌱 Always learning — right now, I’m exploring GPT-5 and its broader applications while dabbling in ML, Robotics use cases in real-life.<br>
 👯 Open to collaborating on remote freelance software engineering projects.<br>
 
 📜 My journey: 
